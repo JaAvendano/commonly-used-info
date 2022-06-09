@@ -1,5 +1,5 @@
 {
-  "VISA":  "https://user-images.githubusercontent.com/47092223/138105256-9f058487-ecc9-4e1c-97e7-aa7c7d90d916.png",
-  "MASTER_CARD": "https://user-images.githubusercontent.com/47092223/138106962-02cb4c60-0fe4-42fe-816b-b5532b49f2d1.png",
-  "DISCOVER": "https://user-images.githubusercontent.com/47092223/138107606-25522140-f7c7-43f2-812e-3b8f72b71818.jpg"
+  "visa":  "https://user-images.githubusercontent.com/47092223/138105256-9f058487-ecc9-4e1c-97e7-aa7c7d90d916.png",
+  "master_card": "https://user-images.githubusercontent.com/47092223/138106962-02cb4c60-0fe4-42fe-816b-b5532b49f2d1.png",
+  "discover": "https://user-images.githubusercontent.com/47092223/138107606-25522140-f7c7-43f2-812e-3b8f72b71818.jpg"
   }
